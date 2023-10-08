@@ -1,0 +1,4 @@
+<template>
+  <TheNavigation/>
+  <CharactersCharacterList/>
+</template>
